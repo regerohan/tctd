@@ -1,0 +1,17 @@
+body{
+    margin-top: 4%;
+    margin-left: 3%;
+    background-color: #FFFFFF;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.name{
+    background: #FFFFFF;
+    text-decoration: none;
+    font-size: 60px;
+    color: #000000;
+    font-family: 'IBM Plex Mono', monospace;
+    line-height: 65px;
+}
